@@ -1,3 +1,3 @@
-| Category | Number | Name               | Difficulty | Solution | Note |
-| -------- | ------ | ------------------ | ---------- | -------- | ---- |
-| Arrays   | 217    | Contains Duplicate | easy       | [Link](./solutions/217_contains-duplicate.py)         | [Link](./notes/217_contains-duplicate.md)       |
+| Category | Number | Name               | Difficulty | Solution                                      | Note                                      | Blog                                                                                        |
+| -------- | ------ | ------------------ | ---------- | --------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Arrays   | 217    | Contains Duplicate | easy       | [Link](./solutions/217_contains-duplicate.py) | [Link](./notes/217_contains-duplicate.md) | [Link](https://summer-inequality.blogspot.com/2022/11/leetcode-217-contains-duplicate.html) |
